@@ -1,0 +1,30 @@
+* {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  background-color: #f4f4f4;
+  padding: 30px;
+}
+
+p {
+  font-family: 'Noto Serif JP', serif;
+  line-height: 1.6;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: #2f4f4f;
+}
+
+figure {
+  max-width: 700px;
+  background-color: white;
+  box-shadow: 1px 1px 7px black;
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #777;
+}
